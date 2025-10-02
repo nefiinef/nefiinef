@@ -2,7 +2,7 @@
 <p>I’m trying to improve myself in front-end development.</p>
 <p>Student</p>
 How to reach me:
-<a href="www.linkedin.com/in/nefisebikbay">Linkedin</a>
+<a href="https://www.linkedin.com/in/nefisebikbay">Linkedin</a>
 
 
 
