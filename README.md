@@ -1,8 +1,9 @@
 ## Hello, I’m Nefise 👋🏻
 <p>I’m trying to improve myself in front-end development.</p>
 <p>Student</p>
-How to reach me
-[LinkedIn](https://www.linkedin.com/in/nefisebikbay)
+How to reach me:
+<a href="www.linkedin.com/in/nefisebikbay">Linkedin</a>
+
 
 
 
