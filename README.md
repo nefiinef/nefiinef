@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, I’m Nefise 👋🏻
+<p>I’m trying to improve myself in front-end development.</p>
+<p>Student</p>
+How to reach me
+[LinkedIn](https://www.linkedin.com/in/nefisebikbay)
+
+
+
 
 <!--
 **nefiinef/nefiinef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
