@@ -7,10 +7,7 @@
 How to reach me:
 <a href="https://www.linkedin.com/in/nefisebikbay">Linkedin</a>
 
-<p>Tools & Technologies </p>
-
-
-
+<h3>Tools & Technologies </h3>
 
 - UX / UI 
 - Git <img width="20" height="20" alt="social" src="https://github.com/user-attachments/assets/131481d1-9dcf-4484-ae7f-6aacefd3c420" />
