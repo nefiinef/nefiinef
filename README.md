@@ -1,5 +1,5 @@
 ## Hello, I’m Nefise 👋🏻
-<p>I’m trying to improve myself in front-end development.</p>
+<p>I’m continuously improving my front-end development skills.</p>
 <p>Always student</p>
 <img src="https://cdn-icons-png.flaticon.com/128/4997/4997543.png" width="40" height="40"/>
 
