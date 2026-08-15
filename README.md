@@ -26,7 +26,11 @@
 - HTML <img width="23" height="23" alt="html-2" src="https://github.com/user-attachments/assets/b8b316d8-6f3a-4281-91cd-ddfed64e1666" />
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NefiseBikbay/NefiseBikbay/output/lane-defense.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NefiseBikbay/NefiseBikbay/output/lane-defense-light.svg">
+  <img alt="Tower defense battle animated over my GitHub contribution graph" src="https://raw.githubusercontent.com/NefiseBikbay/NefiseBikbay/output/lane-defense.svg">
+</picture>
 <!--
 **nefiinef/nefiinef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
